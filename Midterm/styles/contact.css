@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p {
+    font-size: 25px;
+}
+
+.mask{
+    height: 400px;
+    font-family: 'Josefin Slab', serif;
+}
+
+#fbsocial {
+    font-size: 50px;
+}
+
+.contact{
+    text-align: center;
+}
+
+#googleForm{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

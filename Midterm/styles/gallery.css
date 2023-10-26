@@ -1,0 +1,9 @@
+.mask{
+    height: 400px;
+    font-family: 'Josefin Slab', serif;
+}
+
+#carousel{
+    width: 75%;
+    margin: auto;
+}
